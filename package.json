@@ -1,0 +1,22 @@
+{
+  "name": "serverless-local-importvalue",
+  "version": "0.1.0",
+  "description": "Serverless plugin that makes !ImportValue work with invoke local",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humodz/serverless-local-importvalue.git"
+  },
+  "keywords": [
+    "serverless",
+    "serverless-plugin",
+    "importvalue",
+    "invoke-local"
+  ],
+  "author": "Hugo Dzin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/humodz/serverless-local-importvalue/issues"
+  },
+  "homepage": "https://github.com/humodz/serverless-local-importvalue#readme"
+}
